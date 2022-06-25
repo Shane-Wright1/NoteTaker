@@ -1,0 +1,15 @@
+C:\Users\shane\OneDrive\Documents\Shanes\NoteTaker\bin\Debug\net6.0\NoteTaker.exe
+C:\Users\shane\OneDrive\Documents\Shanes\NoteTaker\bin\Debug\net6.0\NoteTaker.deps.json
+C:\Users\shane\OneDrive\Documents\Shanes\NoteTaker\bin\Debug\net6.0\NoteTaker.runtimeconfig.json
+C:\Users\shane\OneDrive\Documents\Shanes\NoteTaker\bin\Debug\net6.0\NoteTaker.dll
+C:\Users\shane\OneDrive\Documents\Shanes\NoteTaker\bin\Debug\net6.0\NoteTaker.pdb
+C:\Users\shane\OneDrive\Documents\Shanes\NoteTaker\obj\Debug\net6.0\NoteTaker.csproj.AssemblyReference.cache
+C:\Users\shane\OneDrive\Documents\Shanes\NoteTaker\obj\Debug\net6.0\NoteTaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shane\OneDrive\Documents\Shanes\NoteTaker\obj\Debug\net6.0\NoteTaker.AssemblyInfoInputs.cache
+C:\Users\shane\OneDrive\Documents\Shanes\NoteTaker\obj\Debug\net6.0\NoteTaker.AssemblyInfo.cs
+C:\Users\shane\OneDrive\Documents\Shanes\NoteTaker\obj\Debug\net6.0\NoteTaker.csproj.CoreCompileInputs.cache
+C:\Users\shane\OneDrive\Documents\Shanes\NoteTaker\obj\Debug\net6.0\NoteTaker.dll
+C:\Users\shane\OneDrive\Documents\Shanes\NoteTaker\obj\Debug\net6.0\refint\NoteTaker.dll
+C:\Users\shane\OneDrive\Documents\Shanes\NoteTaker\obj\Debug\net6.0\NoteTaker.pdb
+C:\Users\shane\OneDrive\Documents\Shanes\NoteTaker\obj\Debug\net6.0\NoteTaker.genruntimeconfig.cache
+C:\Users\shane\OneDrive\Documents\Shanes\NoteTaker\obj\Debug\net6.0\ref\NoteTaker.dll

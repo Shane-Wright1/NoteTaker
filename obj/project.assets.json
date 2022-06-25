@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shane\\RiderProjects\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\shane\\RiderProjects\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\shane\\OneDrive\\Documents\\Shanes\\NoteTaker\\NoteTaker.csproj",
+      "projectName": "NoteTaker",
+      "projectPath": "C:\\Users\\shane\\OneDrive\\Documents\\Shanes\\NoteTaker\\NoteTaker.csproj",
       "packagesPath": "C:\\Users\\shane\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shane\\RiderProjects\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\shane\\OneDrive\\Documents\\Shanes\\NoteTaker\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
