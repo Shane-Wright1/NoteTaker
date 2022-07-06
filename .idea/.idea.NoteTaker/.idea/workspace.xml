@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9fbf54bb-543f-4e4b-9be2-6f2f9911d25e" name="Changes" comment="" />
+    <list default="true" id="9fbf54bb-543f-4e4b-9be2-6f2f9911d25e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.NoteTaker/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.NoteTaker/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Note.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Note.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NoteTaker.cs" beforeDir="false" afterPath="$PROJECT_DIR$/NoteTaker.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReadFile.cs" beforeDir="false" afterPath="$PROJECT_DIR$/File.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WriteFile.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net6.0/NoteTaker.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net6.0/NoteTaker.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net6.0/NoteTaker.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net6.0/NoteTaker.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/NoteTaker.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/NoteTaker.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/NoteTaker.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/NoteTaker.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/ref/NoteTaker.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/ref/NoteTaker.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/refint/NoteTaker.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/refint/NoteTaker.dll" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,14 +30,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="ConsoleApp1" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -55,6 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1656197776355</updated>
       <workItem from="1656197778526" duration="79000" />
+      <workItem from="1656976627305" duration="23000" />
     </task>
     <servers />
   </component>

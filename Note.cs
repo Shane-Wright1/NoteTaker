@@ -6,31 +6,45 @@ public class Note
     //instance variables for heading, content and index of a note.
     private string _heading = "";
     private string _content = @"";
-    private int index;
+    private static int _nextIndex = 0;
 
+    public Note(string heading, string content, int index)
+    {
+        Heading = heading;
+        Content = content;
+        Index = index;
+    }
+    
+    public Note(string heading, string content)
+    {
+        Heading = heading;
+        Content = content;
+        Index = _nextIndex;
+        _nextIndex += 1;
+    }
     public string Heading
     {
-        get { return _heading; }
+        get => _heading;
         set
         {
-            if (value.CompareTo("") != 0)
+            if (!String.IsNullOrEmpty(value))
                 _heading = value;
+            else
+                _heading = "< >";
         }
     }
 
     public string Content
     {
-        get { return _content; }
+        get => _content;
         set
         {
-            if (value.CompareTo("") != 0)
+            if (!String.IsNullOrEmpty(value))
                 _content = value;
+            else
+                _content = "< >";
         }
     }
 
-    public int Index
-    {
-        get { return index; }
-    }
-
+    public int Index { get; }
 }
